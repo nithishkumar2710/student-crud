@@ -1,0 +1,6 @@
+{
+    "students": [
+      { "id": 1, "name": "kailash", "age": 20, "number": "1234567890" ,"email":"kailash@gmail.com"},
+      { "id": 2, "name": "bala", "age": 22, "number": "0987654321" ,"email":"bala@gmail.com"}
+    ]
+  }
